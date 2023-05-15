@@ -16,18 +16,18 @@ SpaceX app is deployed on **Vercel** [Spacex](https://64626298cd1277056015a9bd--
 
 >Filters and Launch Items details cards having Spacex launch details fetched from API
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/1.jpg)
+![Alt text](https://ik.imagekit.io/1rg3nmuyq/1.jpg?updatedAt=1684170100234)
 
 > After Applying Launch Year Filter
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1271__wwcOOWXWmR.png)
+![Alt text](https://ik.imagekit.io/1rg3nmuyq/2.jpg?updatedAt=1684170100217)
 
 > After Applying Successful Launch Filter
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1272__IQT1rCmyt.png)
+![Alt text](https://ik.imagekit.io/1rg3nmuyq/3.jpg?updatedAt=1684170093531)
 
 > After Applying Launch Year, Successful Launch and Landing Success Filter
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1273__OetAvBQCL.png)
+![Alt text](https://ik.imagekit.io/1rg3nmuyq/4.jpg?updatedAt=1684170091709)
 
-Developed By [Jasvinder Singh Sabharwal](https://github.com/jvsinghk), [Jennifer B](https://github.com/jenndroid)
+Developed By [Bhargav Nadiadra](https://github.com/jvsinghk)
