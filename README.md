@@ -30,4 +30,4 @@ SpaceX app is deployed on **Vercel** [Spacex](https://64626298cd1277056015a9bd--
 
 ![Alt text](https://ik.imagekit.io/1rg3nmuyq/4.jpg?updatedAt=1684170091709)
 
-Developed By [Bhargav Nadiadra](https://github.com/jvsinghk)
+Developed By [Bhargav Nadiadra](https://github.com/Bhargav-Nadiadra)
