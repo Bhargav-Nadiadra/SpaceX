@@ -16,7 +16,7 @@ SpaceX app is deployed on **Vercel** [Spacex](https://64626298cd1277056015a9bd--
 
 >Filters and Launch Items details cards having Spacex launch details fetched from API
 
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1270__MvCD0C3w26.png)
+![Alt text](https://ik.imagekit.io/eudv8cramv/1.jpg)
 
 > After Applying Launch Year Filter
 
